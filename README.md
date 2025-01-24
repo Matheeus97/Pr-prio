@@ -41,6 +41,7 @@ Cria as tabelas necessárias.
 Insere os dados coletados da API CoinCap. 
 
 ################################
+
 Observação 
 Caso o script encontre um erro durante a verificação, ele interromperá o processo para 
 evitar a perda de dados existentes. 
